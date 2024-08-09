@@ -1,0 +1,229 @@
+8
+
+dir
+11557
+http://svn.eathena.ws/svn/ea/branches/stable/npc
+http://svn.eathena.ws/svn/ea
+
+
+
+2007-10-22T22:23:24.395395Z
+11556
+L0ne_W0lf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8d3bc1bb-15e8-0310-adf8-f98a08d51996
+
+scripts_jmonsters.conf
+file
+
+
+
+
+2007-10-24T02:58:04.125000Z
+94e98f02c6152b32d539d102bd53e2a0
+2007-09-10T19:13:55.269933Z
+11174
+Playtester
+has-props
+
+scripts_main.conf
+file
+
+
+
+
+2007-10-24T02:58:04.171875Z
+995b5813dca5498d48f4be07c0feb565
+2007-07-30T23:05:52.718658Z
+10933
+L0ne_W0lf
+has-props
+
+cities
+dir
+
+guides
+dir
+
+other
+dir
+
+sample
+dir
+
+merchants
+dir
+
+quests
+dir
+
+scripts_eaac.conf
+file
+
+
+
+
+2007-10-24T02:58:04.234375Z
+a19242b54423b65053dcc15c2cfec383
+2007-01-31T17:49:17.251480Z
+9751
+ultramage
+has-props
+
+scripts_mapflags.conf
+file
+
+
+
+
+2007-10-24T02:58:04.265625Z
+ff0fdfae5e73e67ada93898db6152322
+2007-01-31T17:49:17.251480Z
+9751
+ultramage
+has-props
+
+scripts_warps.conf
+file
+
+
+
+
+2007-10-24T02:58:04.296875Z
+59d3e0a731d3863b5c0e2f9a35be4288
+2007-09-15T09:07:26.517321Z
+11218
+ultramage
+has-props
+
+scripts_jobs.conf
+file
+
+
+
+
+2007-10-24T02:58:04.328125Z
+eec62dea3feff2d89797b918e774e161
+2007-09-14T21:27:36.101059Z
+11209
+ultramage
+has-props
+
+scripts_athena.conf
+file
+
+
+
+
+2007-10-24T02:58:04.375000Z
+10ec1799988314d9eb0528d4813cae1c
+2007-10-14T01:39:03.807073Z
+11463
+L0ne_W0lf
+has-props
+
+warps
+dir
+
+jobs
+dir
+
+scripts_guild.conf
+file
+
+
+
+
+2007-10-24T02:58:04.406250Z
+4c751041bf1ed11254b88209dbac2df1
+2007-10-11T23:51:17.234115Z
+11420
+ultramage
+has-props
+
+mobs
+dir
+
+airports
+dir
+
+events
+dir
+
+guild
+dir
+
+Changelog.txt
+file
+
+
+
+
+2007-10-24T02:58:04.437500Z
+f7e9ba6149c637aa70c943140929614b
+2007-10-22T22:23:24.395395Z
+11556
+L0ne_W0lf
+has-props
+
+scripts_custom.conf
+file
+
+
+
+
+2007-10-24T02:58:04.468750Z
+789fbd00c409840b7668617a9488b3f2
+2007-10-14T01:20:33.883536Z
+11460
+L0ne_W0lf
+has-props
+
+scripts_monsters.conf
+file
+
+
+
+
+2007-10-24T02:58:04.531250Z
+ee5c47f6c69d5c060f16386572e6568e
+2007-09-10T19:13:55.269933Z
+11174
+Playtester
+has-props
+
+eamobs
+dir
+
+kafras
+dir
+
+custom
+dir
+
+scripts_eamonsters.conf
+file
+
+
+
+
+2007-10-24T02:58:04.562500Z
+8beb6f9f45b5791eaafa05ac70a12b44
+2007-09-10T19:13:55.269933Z
+11174
+Playtester
+has-props
+

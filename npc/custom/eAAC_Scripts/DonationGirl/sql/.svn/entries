@@ -1,0 +1,54 @@
+8
+
+dir
+11557
+http://svn.eathena.ws/svn/ea/branches/stable/npc/custom/eAAC_Scripts/DonationGirl/sql
+http://svn.eathena.ws/svn/ea
+
+
+
+2007-03-02T00:11:54.634971Z
+9947
+ultramage
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8d3bc1bb-15e8-0310-adf8-f98a08d51996
+
+donate.sql
+file
+
+
+
+
+2007-10-24T02:57:15.843750Z
+94e891922e00ffc1b7bf3e64ceb5b7be
+2007-03-02T00:11:54.634971Z
+9947
+ultramage
+has-props
+
+donate_item_db.sql
+file
+
+
+
+
+2007-10-24T02:57:15.890625Z
+d8cdc1c74609685942b56844ce9d2f8c
+2007-03-02T00:11:54.634971Z
+9947
+ultramage
+has-props
+

@@ -1,0 +1,191 @@
+
+23-10-2007 15:22:35: The char-server starting...
+23-10-2007 15:22:35: mmo_char_init: No character found in save/athena.txt.
+23-10-2007 15:22:35: Id for the next created character: 150000.
+23-10-2007 15:22:35: The char-server is ready (Server is listening on the port 6121).
+23-10-2007 15:22:35: From login-server: receiving information of 1 GM accounts.
+23-10-2007 15:23:47: Map-Server 0 connected: 598 maps, from IP 192.168.1.34 port 5121. Map-server 0 loading complete.
+23-10-2007 15:24:44: Creation of New Character: (connection #472, account: 2000001) slot 1, character Name: Negis, stats: 5/5/5/5/5/5, hair: 1, hair color: 0.
+23-10-2007 15:24:45: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+23-10-2007 15:28:49: Map-Server 0 connected: 598 maps, from IP 192.168.1.34 port 5121. Map-server 0 loading complete.
+23-10-2007 15:29:06: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+23-10-2007 15:32:51: Map-Server 0 connected: 598 maps, from IP 192.168.1.34 port 5121. Map-server 0 loading complete.
+23-10-2007 15:33:10: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+23-10-2007 15:38:06: ----End of char-server (normal end with closing of all files).
+
+23-10-2007 15:47:25: The char-server starting...
+23-10-2007 15:47:25: mmo_char_init: 1 character read in save/athena.txt.
+23-10-2007 15:47:25: Id for the next created character: 150001.
+23-10-2007 15:47:25: The char-server is ready (Server is listening on the port 6121).
+23-10-2007 15:47:26: From login-server: receiving information of 1 GM accounts.
+23-10-2007 15:47:41: Map-Server 0 connected: 598 maps, from IP 127.0.0.1 port 5121. Map-server 0 loading complete.
+23-10-2007 15:48:03: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+23-10-2007 15:51:25: ----End of char-server (normal end with closing of all files).
+
+23-10-2007 22:47:17: The char-server starting...
+23-10-2007 22:47:17: mmo_char_init: 1 character read in save/athena.txt.
+23-10-2007 22:47:17: Id for the next created character: 150001.
+23-10-2007 22:47:17: The char-server is ready (Server is listening on the port 6121).
+23-10-2007 22:47:18: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+23-10-2007 22:47:18: From login-server: receiving information of 1 GM accounts.
+23-10-2007 22:47:47: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+23-10-2007 22:49:49: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+23-10-2007 22:50:28: ----End of char-server (normal end with closing of all files).
+
+24-10-2007 20:23:32: The char-server starting...
+24-10-2007 20:23:32: mmo_char_init: 1 character read in save/athena.txt.
+24-10-2007 20:23:32: Id for the next created character: 150001.
+24-10-2007 20:23:32: The char-server is ready (Server is listening on the port 6121).
+24-10-2007 20:23:33: From login-server: receiving information of 1 GM accounts.
+24-10-2007 20:23:49: Map-Server 0 connected: 598 maps, from IP 192.168.1.34 port 5121. Map-server 0 loading complete.
+24-10-2007 20:24:27: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+24-10-2007 20:25:44: Map-Server 0 connected: 598 maps, from IP 192.168.1.34 port 5121. Map-server 0 loading complete.
+24-10-2007 20:25:56: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+
+25-10-2007 20:00:55: The char-server starting...
+25-10-2007 20:00:55: mmo_char_init: 1 character read in save/athena.txt.
+25-10-2007 20:00:55: Id for the next created character: 150001.
+25-10-2007 20:00:55: The char-server is ready (Server is listening on the port 6121).
+25-10-2007 20:00:55: From login-server: receiving information of 1 GM accounts.
+25-10-2007 20:01:10: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+25-10-2007 20:01:59: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+25-10-2007 20:03:00: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+25-10-2007 20:06:11: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+25-10-2007 20:06:26: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+25-10-2007 20:29:49: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+25-10-2007 20:48:14: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+25-10-2007 20:53:19: ----End of char-server (normal end with closing of all files).
+
+26-10-2007 14:57:39: The char-server starting...
+26-10-2007 14:57:39: mmo_char_init: 1 character read in save/athena.txt.
+26-10-2007 14:57:39: Id for the next created character: 150001.
+26-10-2007 14:57:39: The char-server is ready (Server is listening on the port 6121).
+26-10-2007 14:57:40: From login-server: receiving information of 1 GM accounts.
+26-10-2007 14:58:07: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+26-10-2007 14:58:49: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+26-10-2007 14:59:23: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+26-10-2007 15:13:12: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+26-10-2007 15:14:58: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+26-10-2007 15:19:07: ----End of char-server (normal end with closing of all files).
+
+26-10-2007 15:52:22: The char-server starting...
+26-10-2007 15:52:22: mmo_char_init: 1 character read in save/athena.txt.
+26-10-2007 15:52:22: Id for the next created character: 150001.
+26-10-2007 15:52:22: The char-server is ready (Server is listening on the port 6121).
+26-10-2007 15:52:23: From login-server: receiving information of 1 GM accounts.
+26-10-2007 15:52:50: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+26-10-2007 15:56:20: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+26-10-2007 15:57:40: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+26-10-2007 15:58:25: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+26-10-2007 16:03:29: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+26-10-2007 16:03:50: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+26-10-2007 16:10:32: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+26-10-2007 16:10:59: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+26-10-2007 16:11:34: ----End of char-server (normal end with closing of all files).
+
+28-10-2007 17:20:59: The char-server starting...
+28-10-2007 17:20:59: mmo_char_init: 1 character read in save/athena.txt.
+28-10-2007 17:20:59: Id for the next created character: 150001.
+28-10-2007 17:21:00: The char-server is ready (Server is listening on the port 6121).
+28-10-2007 17:21:00: From login-server: receiving information of 1 GM accounts.
+28-10-2007 17:22:04: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 17:24:03: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 17:30:15: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 17:30:41: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 17:35:57: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 17:36:26: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 17:41:46: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 17:42:04: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 17:47:21: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 17:48:43: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 17:51:15: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 17:54:11: ----End of char-server (normal end with closing of all files).
+
+28-10-2007 17:59:52: The char-server starting...
+28-10-2007 17:59:52: mmo_char_init: 1 character read in save/athena.txt.
+28-10-2007 17:59:52: Id for the next created character: 150001.
+28-10-2007 17:59:52: The char-server is ready (Server is listening on the port 6121).
+28-10-2007 17:59:52: From login-server: receiving information of 1 GM accounts.
+28-10-2007 18:01:46: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 18:03:21: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 18:06:42: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 18:07:01: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 18:10:03: ----End of char-server (normal end with closing of all files).
+
+28-10-2007 20:03:45: The char-server starting...
+28-10-2007 20:03:45: mmo_char_init: 1 character read in save/athena.txt.
+28-10-2007 20:03:45: Id for the next created character: 150001.
+28-10-2007 20:03:45: The char-server is ready (Server is listening on the port 6121).
+28-10-2007 20:03:46: From login-server: receiving information of 1 GM accounts.
+28-10-2007 20:04:28: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 20:05:18: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 20:08:11: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 20:09:08: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 20:12:00: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 20:12:41: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 20:26:58: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 20:27:37: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 20:32:28: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 20:33:03: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 20:34:54: ----End of char-server (normal end with closing of all files).
+
+28-10-2007 20:37:48: The char-server starting...
+28-10-2007 20:37:48: mmo_char_init: 1 character read in save/athena.txt.
+28-10-2007 20:37:48: Id for the next created character: 150001.
+28-10-2007 20:37:48: The char-server is ready (Server is listening on the port 6121).
+28-10-2007 20:37:48: From login-server: receiving information of 1 GM accounts.
+28-10-2007 20:38:16: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 20:40:01: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 20:56:39: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 20:57:47: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 20:58:08: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 21:07:04: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 21:07:44: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+
+28-10-2007 21:18:19: The char-server starting...
+28-10-2007 21:18:19: mmo_char_init: 1 character read in save/athena.txt.
+28-10-2007 21:18:19: Id for the next created character: 150001.
+28-10-2007 21:18:19: The char-server is ready (Server is listening on the port 6121).
+28-10-2007 21:18:20: From login-server: receiving information of 1 GM accounts.
+28-10-2007 21:18:46: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 21:19:40: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 21:21:45: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 21:22:22: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 21:25:47: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 21:26:10: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 21:29:19: Map-Server 0 connected: 598 maps, from IP 192.168.1.33 port 5121. Map-server 0 loading complete.
+28-10-2007 21:30:15: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+28-10-2007 21:31:35: ----End of char-server (normal end with closing of all files).
+
+31-10-2007 22:36:36: The char-server starting...
+31-10-2007 22:36:36: mmo_char_init: 1 character read in save/athena.txt.
+31-10-2007 22:36:36: Id for the next created character: 150001.
+31-10-2007 22:36:36: The char-server is ready (Server is listening on the port 6121).
+31-10-2007 22:36:37: From login-server: receiving information of 1 GM accounts.
+31-10-2007 22:37:06: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+31-10-2007 22:38:24: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+31-10-2007 22:39:15: ----End of char-server (normal end with closing of all files).
+
+01-11-2007 21:09:50: The char-server starting...
+01-11-2007 21:09:50: mmo_char_init: 1 character read in save/athena.txt.
+01-11-2007 21:09:50: Id for the next created character: 150001.
+01-11-2007 21:09:50: The char-server is ready (Server is listening on the port 6121).
+01-11-2007 21:09:51: From login-server: receiving information of 1 GM accounts.
+01-11-2007 21:10:17: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+01-11-2007 21:13:46: ----End of char-server (normal end with closing of all files).
+
+03-11-2007 22:09:05: The char-server starting...
+03-11-2007 22:09:06: mmo_char_init: 1 character read in save/athena.txt.
+03-11-2007 22:09:06: Id for the next created character: 150001.
+03-11-2007 22:09:06: The char-server is ready (Server is listening on the port 6121).
+03-11-2007 22:09:06: From login-server: receiving information of 1 GM accounts.
+03-11-2007 22:09:35: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+03-11-2007 22:11:56: Character Selected, Account ID: 2000001, Character Slot: 1, Character Name: Negis.
+
+04-11-2007 19:34:44: The char-server starting...
+04-11-2007 19:34:44: mmo_char_init: No character found in save/athena.txt.
+04-11-2007 19:34:44: Id for the next created character: 150000.
+04-11-2007 19:34:44: The char-server is ready (Server is listening on the port 6121).
+04-11-2007 19:34:45: From login-server: receiving information of 1 GM accounts.
+04-11-2007 19:46:35: Map-Server 0 connected: 598 maps, from IP 192.168.1.35 port 5121. Map-server 0 loading complete.
+04-11-2007 19:48:08: ----End of char-server (normal end with closing of all files).

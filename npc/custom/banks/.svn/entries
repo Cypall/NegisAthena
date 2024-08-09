@@ -1,0 +1,54 @@
+8
+
+dir
+11557
+http://svn.eathena.ws/svn/ea/branches/stable/npc/custom/banks
+http://svn.eathena.ws/svn/ea
+
+
+
+2005-07-05T00:46:59.055782Z
+2415
+amber
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8d3bc1bb-15e8-0310-adf8-f98a08d51996
+
+bank.txt
+file
+
+
+
+
+2007-10-24T02:57:12.390625Z
+30b2913d692844076378af2f4fde2627
+2005-07-05T00:46:59.055782Z
+2415
+amber
+has-props
+
+kafra_bank.txt
+file
+
+
+
+
+2007-10-24T02:57:12.437500Z
+fd2a092e277d5da9d93359182b40fa4a
+2005-07-05T00:46:59.055782Z
+2415
+amber
+has-props
+

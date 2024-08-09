@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/9677/branches/stable/conf-tmpl/import
+END
+charcommand_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/charcommand_conf.txt
+END
+char_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/char_conf.txt
+END
+map_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/map_conf.txt
+END
+inter_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/inter_conf.txt
+END
+log_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/log_conf.txt
+END
+atcommand_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/atcommand_conf.txt
+END
+ladmin_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/ladmin_conf.txt
+END
+script_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ea/!svn/ver/9677/branches/stable/conf-tmpl/import/script_conf.txt
+END
+msg_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/msg_conf.txt
+END
+login_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/login_conf.txt
+END
+battle_conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/import/battle_conf.txt
+END

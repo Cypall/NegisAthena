@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ea/!svn/ver/11420/branches/stable/src/plugins
+END
+upnp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/11420/branches/stable/src/plugins/upnp.txt
+END
+gui.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/11420/branches/stable/src/plugins/gui.txt
+END
+sample.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/2415/branches/stable/src/plugins/sample.c
+END
+sig.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/10583/branches/stable/src/plugins/sig.c
+END
+gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/10761/branches/stable/src/plugins/gui.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/10321/branches/stable/src/plugins/Makefile
+END
+pid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/10321/branches/stable/src/plugins/pid.c
+END

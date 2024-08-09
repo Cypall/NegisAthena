@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ea/!svn/ver/11492/branches/stable/src/map
+END
+pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/10172/branches/stable/src/map/pcre.h
+END
+chrif.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11438/branches/stable/src/map/chrif.h
+END
+atcommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/11443/branches/stable/src/map/atcommand.c
+END
+itemdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11452/branches/stable/src/map/itemdb.c
+END
+guild.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11443/branches/stable/src/map/guild.c
+END
+script.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11488/branches/stable/src/map/script.c
+END
+atcommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/11135/branches/stable/src/map/atcommand.h
+END
+itemdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11424/branches/stable/src/map/itemdb.h
+END
+intif.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11065/branches/stable/src/map/intif.c
+END
+guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11065/branches/stable/src/map/guild.h
+END
+script.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11453/branches/stable/src/map/script.h
+END
+battle.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11492/branches/stable/src/map/battle.c
+END
+charcommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/11420/branches/stable/src/map/charcommand.c
+END
+intif.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11065/branches/stable/src/map/intif.h
+END
+skill.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11492/branches/stable/src/map/skill.c
+END
+unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11465/branches/stable/src/map/unit.c
+END
+battle.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11492/branches/stable/src/map/battle.h
+END
+npc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11454/branches/stable/src/map/npc.c
+END
+charcommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/9949/branches/stable/src/map/charcommand.h
+END
+status.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11492/branches/stable/src/map/status.c
+END
+skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11465/branches/stable/src/map/skill.h
+END
+unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11065/branches/stable/src/map/unit.h
+END
+npc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11454/branches/stable/src/map/npc.h
+END
+mercenary.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/11349/branches/stable/src/map/mercenary.c
+END
+status.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11360/branches/stable/src/map/status.h
+END
+vending.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/11468/branches/stable/src/map/vending.c
+END
+mercenary.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/11349/branches/stable/src/map/mercenary.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11412/branches/stable/src/map/Makefile
+END
+vending.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/11468/branches/stable/src/map/vending.h
+END
+trade.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11468/branches/stable/src/map/trade.c
+END
+party.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11443/branches/stable/src/map/party.c
+END
+pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/11468/branches/stable/src/map/pc.c
+END
+party.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11065/branches/stable/src/map/party.h
+END
+storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/11065/branches/stable/src/map/storage.c
+END
+trade.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11468/branches/stable/src/map/trade.h
+END
+pc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/11445/branches/stable/src/map/pc.h
+END
+storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/11065/branches/stable/src/map/storage.h
+END
+mob.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11444/branches/stable/src/map/mob.c
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11465/branches/stable/src/map/map.c
+END
+clif.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11468/branches/stable/src/map/clif.c
+END
+date.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/10439/branches/stable/src/map/date.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11199/branches/stable/src/map/chat.c
+END
+npc_chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/11065/branches/stable/src/map/npc_chat.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11443/branches/stable/src/map/log.c
+END
+mob.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11444/branches/stable/src/map/mob.h
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11468/branches/stable/src/map/map.h
+END
+mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11438/branches/stable/src/map/mail.c
+END
+clif.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11468/branches/stable/src/map/clif.h
+END
+date.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/9949/branches/stable/src/map/date.h
+END
+chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11196/branches/stable/src/map/chat.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11442/branches/stable/src/map/log.h
+END
+mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11438/branches/stable/src/map/mail.h
+END
+pet.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/11420/branches/stable/src/map/pet.c
+END
+chrif.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11438/branches/stable/src/map/chrif.c
+END
+path.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ea/!svn/ver/11465/branches/stable/src/map/path.c
+END
+pet.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/9949/branches/stable/src/map/pet.h
+END

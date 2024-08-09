@@ -1,0 +1,5 @@
+guild_vs3.gat,49,49,4	script	pet_creator	117,{
+	dispbottom "Send Request is : " + getdefvariable("TEST");
+	emotion e_swt2;
+	end;
+}

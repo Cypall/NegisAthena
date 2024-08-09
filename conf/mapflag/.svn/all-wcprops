@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/11409/branches/stable/conf-tmpl/mapflag
+END
+nopvp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/10681/branches/stable/conf-tmpl/mapflag/nopvp.txt
+END
+pvp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/pvp.txt
+END
+nowarp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/nowarp.txt
+END
+restricted.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/restricted.txt
+END
+nowarpto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ea/!svn/ver/10681/branches/stable/conf-tmpl/mapflag/nowarpto.txt
+END
+night.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/night.txt
+END
+nopenalty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ea/!svn/ver/10681/branches/stable/conf-tmpl/mapflag/nopenalty.txt
+END
+noloot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/10447/branches/stable/conf-tmpl/mapflag/noloot.txt
+END
+noreturn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ea/!svn/ver/10670/branches/stable/conf-tmpl/mapflag/noreturn.txt
+END
+indoors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/indoors.txt
+END
+noicewall.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/noicewall.txt
+END
+nightmare.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/nightmare.txt
+END
+jail.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/jail.txt
+END
+pvp_noparty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/pvp_noparty.txt
+END
+gvg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/gvg.txt
+END
+pvp_noguild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/pvp_noguild.txt
+END
+noexp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/10220/branches/stable/conf-tmpl/mapflag/noexp.txt
+END
+nomemo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/11409/branches/stable/conf-tmpl/mapflag/nomemo.txt
+END
+nobranch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ea/!svn/ver/10688/branches/stable/conf-tmpl/mapflag/nobranch.txt
+END
+noteleport.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ea/!svn/ver/11409/branches/stable/conf-tmpl/mapflag/noteleport.txt
+END
+nosave.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/10798/branches/stable/conf-tmpl/mapflag/nosave.txt
+END

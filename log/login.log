@@ -1,0 +1,416 @@
+
+2007-10-28 17:20:57: The login-server starting...
+2007-10-28 17:20:57: The configuration of the server is set:
+2007-10-28 17:20:57: - with no remote administration.
+2007-10-28 17:20:57: - to accept any IP for remote administration
+2007-10-28 17:20:57: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-10-28 17:20:57: - to create GM with level '60' when @gm is used.
+2007-10-28 17:20:57: - to ALLOW new users (with _F/_M).
+2007-10-28 17:20:57: - with port: 6900.
+2007-10-28 17:20:57: - with the accounts file name: 'save/account.txt'.
+2007-10-28 17:20:57: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-10-28 17:20:57: - to check GM accounts file modifications every 15 seconds.
+2007-10-28 17:20:57: - to save password in plain text.
+2007-10-28 17:20:57: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-10-28 17:20:57: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-10-28 17:20:57: - to NOT display normal parse packets on console.
+2007-10-28 17:20:57: - to NOT display administration parse packets on console.
+2007-10-28 17:20:57: - to NOT display char-server parse packets on console.
+2007-10-28 17:20:57: - with no minimum level for connection.
+2007-10-28 17:20:57: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-10-28 17:20:57: - to create new accounts with an unlimited time.
+2007-10-28 17:20:57: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-10-28 17:20:57: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-10-28 17:20:57: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-10-28 17:20:57: The login-server is ready (Server is listening on the port 6900).
+2007-10-28 17:21:00: Connection request of the char-server 'eAthena' @ 192.168.1.33:6121 (account: 's1', pass: 'p1', ip: '192.168.1.33')
+2007-10-28 17:21:00: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.33)
+2007-10-28 17:21:00: Connection of the char-server 'eAthena' accepted.
+2007-10-28 17:24:01: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:24:01: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 17:24:01: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 17:24:01: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 17:30:38: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:30:40: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:30:40: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 17:30:40: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 17:30:40: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 17:36:22: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:36:24: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:36:24: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 17:36:25: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 17:36:25: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 17:42:01: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:42:02: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:42:02: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 17:42:03: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 17:42:03: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 17:48:40: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:48:42: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 17:48:42: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 17:48:42: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 17:48:42: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 17:54:08: ----End of login-server (normal end with closing of all files).
+
+2007-10-28 17:59:49: The login-server starting...
+2007-10-28 17:59:49: The configuration of the server is set:
+2007-10-28 17:59:49: - with no remote administration.
+2007-10-28 17:59:49: - to accept any IP for remote administration
+2007-10-28 17:59:49: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-10-28 17:59:49: - to create GM with level '60' when @gm is used.
+2007-10-28 17:59:49: - to ALLOW new users (with _F/_M).
+2007-10-28 17:59:49: - with port: 6900.
+2007-10-28 17:59:49: - with the accounts file name: 'save/account.txt'.
+2007-10-28 17:59:49: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-10-28 17:59:49: - to check GM accounts file modifications every 15 seconds.
+2007-10-28 17:59:49: - to save password in plain text.
+2007-10-28 17:59:49: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-10-28 17:59:49: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-10-28 17:59:49: - to NOT display normal parse packets on console.
+2007-10-28 17:59:49: - to NOT display administration parse packets on console.
+2007-10-28 17:59:49: - to NOT display char-server parse packets on console.
+2007-10-28 17:59:49: - with no minimum level for connection.
+2007-10-28 17:59:49: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-10-28 17:59:49: - to create new accounts with an unlimited time.
+2007-10-28 17:59:49: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-10-28 17:59:49: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-10-28 17:59:49: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-10-28 17:59:49: The login-server is ready (Server is listening on the port 6900).
+2007-10-28 17:59:52: Connection request of the char-server 'eAthena' @ 192.168.1.33:6121 (account: 's1', pass: 'p1', ip: '192.168.1.33')
+2007-10-28 17:59:52: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.33)
+2007-10-28 17:59:52: Connection of the char-server 'eAthena' accepted.
+2007-10-28 18:03:18: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 18:03:19: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 18:03:19: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 18:03:20: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 18:06:58: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 18:06:59: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 18:06:59: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 18:07:00: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 18:07:00: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 18:09:26: ----End of login-server (normal end with closing of all files).
+
+2007-10-28 20:03:41: The login-server starting...
+2007-10-28 20:03:41: The configuration of the server is set:
+2007-10-28 20:03:41: - with no remote administration.
+2007-10-28 20:03:41: - to accept any IP for remote administration
+2007-10-28 20:03:41: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-10-28 20:03:41: - to create GM with level '60' when @gm is used.
+2007-10-28 20:03:41: - to ALLOW new users (with _F/_M).
+2007-10-28 20:03:41: - with port: 6900.
+2007-10-28 20:03:41: - with the accounts file name: 'save/account.txt'.
+2007-10-28 20:03:41: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-10-28 20:03:41: - to check GM accounts file modifications every 15 seconds.
+2007-10-28 20:03:41: - to save password in plain text.
+2007-10-28 20:03:41: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-10-28 20:03:41: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-10-28 20:03:41: - to NOT display normal parse packets on console.
+2007-10-28 20:03:41: - to NOT display administration parse packets on console.
+2007-10-28 20:03:41: - to NOT display char-server parse packets on console.
+2007-10-28 20:03:41: - with no minimum level for connection.
+2007-10-28 20:03:41: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-10-28 20:03:41: - to create new accounts with an unlimited time.
+2007-10-28 20:03:41: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-10-28 20:03:41: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-10-28 20:03:41: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-10-28 20:03:41: The login-server is ready (Server is listening on the port 6900).
+2007-10-28 20:03:46: Connection request of the char-server 'eAthena' @ 192.168.1.33:6121 (account: 's1', pass: 'p1', ip: '192.168.1.33')
+2007-10-28 20:03:46: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.33)
+2007-10-28 20:03:46: Connection of the char-server 'eAthena' accepted.
+2007-10-28 20:05:16: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:05:16: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:05:17: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:05:17: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 20:09:05: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:09:07: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:09:07: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:09:07: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:09:07: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 20:12:38: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:12:40: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:12:40: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:12:40: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:12:40: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 20:27:34: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:27:35: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:27:35: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:27:36: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:27:36: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 20:33:00: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:33:01: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:33:01: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:33:02: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:33:02: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 20:34:41: ----End of login-server (normal end with closing of all files).
+
+2007-10-28 20:37:45: The login-server starting...
+2007-10-28 20:37:45: The configuration of the server is set:
+2007-10-28 20:37:45: - with no remote administration.
+2007-10-28 20:37:45: - to accept any IP for remote administration
+2007-10-28 20:37:45: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-10-28 20:37:45: - to create GM with level '60' when @gm is used.
+2007-10-28 20:37:45: - to ALLOW new users (with _F/_M).
+2007-10-28 20:37:45: - with port: 6900.
+2007-10-28 20:37:45: - with the accounts file name: 'save/account.txt'.
+2007-10-28 20:37:45: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-10-28 20:37:45: - to check GM accounts file modifications every 15 seconds.
+2007-10-28 20:37:45: - to save password in plain text.
+2007-10-28 20:37:45: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-10-28 20:37:45: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-10-28 20:37:45: - to NOT display normal parse packets on console.
+2007-10-28 20:37:45: - to NOT display administration parse packets on console.
+2007-10-28 20:37:45: - to NOT display char-server parse packets on console.
+2007-10-28 20:37:45: - with no minimum level for connection.
+2007-10-28 20:37:45: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-10-28 20:37:45: - to create new accounts with an unlimited time.
+2007-10-28 20:37:45: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-10-28 20:37:45: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-10-28 20:37:45: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-10-28 20:37:45: The login-server is ready (Server is listening on the port 6900).
+2007-10-28 20:37:48: Connection request of the char-server 'eAthena' @ 192.168.1.33:6121 (account: 's1', pass: 'p1', ip: '192.168.1.33')
+2007-10-28 20:37:48: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.33)
+2007-10-28 20:37:48: Connection of the char-server 'eAthena' accepted.
+2007-10-28 20:39:59: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:39:59: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:40:00: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:40:00: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 20:56:07: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:56:09: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:56:10: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:56:14: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:56:30: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:56:30: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:56:36: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:56:36: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 20:58:03: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 20:58:03: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 20:58:06: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 20:58:06: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 21:07:39: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:07:41: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:07:41: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 21:07:42: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 21:07:42: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+
+2007-10-28 21:18:16: The login-server starting...
+2007-10-28 21:18:16: The configuration of the server is set:
+2007-10-28 21:18:16: - with no remote administration.
+2007-10-28 21:18:16: - to accept any IP for remote administration
+2007-10-28 21:18:16: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-10-28 21:18:16: - to create GM with level '60' when @gm is used.
+2007-10-28 21:18:16: - to ALLOW new users (with _F/_M).
+2007-10-28 21:18:16: - with port: 6900.
+2007-10-28 21:18:16: - with the accounts file name: 'save/account.txt'.
+2007-10-28 21:18:16: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-10-28 21:18:16: - to check GM accounts file modifications every 15 seconds.
+2007-10-28 21:18:16: - to save password in plain text.
+2007-10-28 21:18:16: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-10-28 21:18:16: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-10-28 21:18:16: - to NOT display normal parse packets on console.
+2007-10-28 21:18:16: - to NOT display administration parse packets on console.
+2007-10-28 21:18:16: - to NOT display char-server parse packets on console.
+2007-10-28 21:18:16: - with no minimum level for connection.
+2007-10-28 21:18:16: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-10-28 21:18:16: - to create new accounts with an unlimited time.
+2007-10-28 21:18:16: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-10-28 21:18:16: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-10-28 21:18:16: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-10-28 21:18:16: The login-server is ready (Server is listening on the port 6900).
+2007-10-28 21:18:20: Connection request of the char-server 'eAthena' @ 192.168.1.33:6121 (account: 's1', pass: 'p1', ip: '192.168.1.33')
+2007-10-28 21:18:20: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.33)
+2007-10-28 21:18:20: Connection of the char-server 'eAthena' accepted.
+2007-10-28 21:19:37: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:19:37: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 21:19:38: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 21:19:38: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 21:22:08: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:22:20: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:22:20: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 21:22:21: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 21:22:21: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 21:26:07: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:26:09: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:26:09: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 21:26:09: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 21:26:09: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 21:30:11: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:30:13: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-28 21:30:13: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-28 21:30:13: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.33).
+2007-10-28 21:30:13: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.33).
+2007-10-28 21:31:40: ----End of login-server (normal end with closing of all files).
+
+2007-10-31 22:36:34: The login-server starting...
+2007-10-31 22:36:34: The configuration of the server is set:
+2007-10-31 22:36:34: - with no remote administration.
+2007-10-31 22:36:34: - to accept any IP for remote administration
+2007-10-31 22:36:34: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-10-31 22:36:34: - to create GM with level '60' when @gm is used.
+2007-10-31 22:36:34: - to ALLOW new users (with _F/_M).
+2007-10-31 22:36:34: - with port: 6900.
+2007-10-31 22:36:34: - with the accounts file name: 'save/account.txt'.
+2007-10-31 22:36:34: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-10-31 22:36:34: - to check GM accounts file modifications every 15 seconds.
+2007-10-31 22:36:34: - to save password in plain text.
+2007-10-31 22:36:34: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-10-31 22:36:34: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-10-31 22:36:34: - to NOT display normal parse packets on console.
+2007-10-31 22:36:34: - to NOT display administration parse packets on console.
+2007-10-31 22:36:34: - to NOT display char-server parse packets on console.
+2007-10-31 22:36:34: - with no minimum level for connection.
+2007-10-31 22:36:34: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-10-31 22:36:34: - to create new accounts with an unlimited time.
+2007-10-31 22:36:34: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-10-31 22:36:34: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-10-31 22:36:34: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-10-31 22:36:34: The login-server is ready (Server is listening on the port 6900).
+2007-10-31 22:36:37: Connection request of the char-server 'eAthena' @ 192.168.1.35:6121 (account: 's1', pass: 'p1', ip: '192.168.1.35')
+2007-10-31 22:36:37: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.35)
+2007-10-31 22:36:37: Connection of the char-server 'eAthena' accepted.
+2007-10-31 22:38:22: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-10-31 22:38:22: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-10-31 22:38:23: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.35).
+2007-10-31 22:38:23: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.35).
+2007-10-31 22:39:15: ----End of login-server (normal end with closing of all files).
+
+2007-11-01 21:09:48: The login-server starting...
+2007-11-01 21:09:48: The configuration of the server is set:
+2007-11-01 21:09:48: - with no remote administration.
+2007-11-01 21:09:48: - to accept any IP for remote administration
+2007-11-01 21:09:48: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-11-01 21:09:48: - to create GM with level '60' when @gm is used.
+2007-11-01 21:09:48: - to ALLOW new users (with _F/_M).
+2007-11-01 21:09:48: - with port: 6900.
+2007-11-01 21:09:48: - with the accounts file name: 'save/account.txt'.
+2007-11-01 21:09:48: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-11-01 21:09:48: - to check GM accounts file modifications every 15 seconds.
+2007-11-01 21:09:48: - to save password in plain text.
+2007-11-01 21:09:48: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-11-01 21:09:48: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-11-01 21:09:48: - to NOT display normal parse packets on console.
+2007-11-01 21:09:48: - to NOT display administration parse packets on console.
+2007-11-01 21:09:48: - to NOT display char-server parse packets on console.
+2007-11-01 21:09:48: - with no minimum level for connection.
+2007-11-01 21:09:48: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-11-01 21:09:48: - to create new accounts with an unlimited time.
+2007-11-01 21:09:48: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-11-01 21:09:48: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-11-01 21:09:48: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-11-01 21:09:48: The login-server is ready (Server is listening on the port 6900).
+2007-11-01 21:09:51: Connection request of the char-server 'eAthena' @ 192.168.1.35:6121 (account: 's1', pass: 'p1', ip: '192.168.1.35')
+2007-11-01 21:09:51: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.35)
+2007-11-01 21:09:51: Connection of the char-server 'eAthena' accepted.
+2007-11-01 21:13:46: ----End of login-server (normal end with closing of all files).
+
+2007-11-03 22:09:03: The login-server starting...
+2007-11-03 22:09:03: The configuration of the server is set:
+2007-11-03 22:09:03: - with no remote administration.
+2007-11-03 22:09:03: - to accept any IP for remote administration
+2007-11-03 22:09:03: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-11-03 22:09:03: - to create GM with level '60' when @gm is used.
+2007-11-03 22:09:03: - to ALLOW new users (with _F/_M).
+2007-11-03 22:09:03: - with port: 6900.
+2007-11-03 22:09:03: - with the accounts file name: 'save/account.txt'.
+2007-11-03 22:09:03: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-11-03 22:09:03: - to check GM accounts file modifications every 15 seconds.
+2007-11-03 22:09:03: - to save password in plain text.
+2007-11-03 22:09:03: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-11-03 22:09:03: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-11-03 22:09:03: - to NOT display normal parse packets on console.
+2007-11-03 22:09:03: - to NOT display administration parse packets on console.
+2007-11-03 22:09:03: - to NOT display char-server parse packets on console.
+2007-11-03 22:09:03: - with no minimum level for connection.
+2007-11-03 22:09:03: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-11-03 22:09:03: - to create new accounts with an unlimited time.
+2007-11-03 22:09:03: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-11-03 22:09:03: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-11-03 22:09:03: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-11-03 22:09:03: The login-server is ready (Server is listening on the port 6900).
+2007-11-03 22:09:06: Connection request of the char-server 'eAthena' @ 192.168.1.35:6121 (account: 's1', pass: 'p1', ip: '192.168.1.35')
+2007-11-03 22:09:06: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.35)
+2007-11-03 22:09:06: Connection of the char-server 'eAthena' accepted.
+2007-11-03 22:11:54: Request for connection (non encryption mode) of Test (ip: 127.0.0.1).
+2007-11-03 22:11:54: Authentification accepted (account: Test (id: 2000001), ip: 127.0.0.1)
+2007-11-03 22:11:55: Char-server 'eAthena': authentification of the account 2000001 accepted (ip: 192.168.1.35).
+2007-11-03 22:11:55: Char-server 'eAthena': e-mail of the account 2000001 found (ip: 192.168.1.35).
+2007-11-03 22:22:09: ----End of login-server (normal end with closing of all files).
+
+2007-11-04 16:33:36: The login-server starting...
+2007-11-04 16:33:36: The configuration of the server is set:
+2007-11-04 16:33:36: - with no remote administration.
+2007-11-04 16:33:36: - to accept any IP for remote administration
+2007-11-04 16:33:36: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-11-04 16:33:36: - to create GM with level '60' when @gm is used.
+2007-11-04 16:33:36: - to ALLOW new users (with _F/_M).
+2007-11-04 16:33:36: - with port: 6900.
+2007-11-04 16:33:36: - with the accounts file name: 'save/account.txt'.
+2007-11-04 16:33:36: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-11-04 16:33:36: - to check GM accounts file modifications every 15 seconds.
+2007-11-04 16:33:36: - to save password in plain text.
+2007-11-04 16:33:36: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-11-04 16:33:36: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-11-04 16:33:36: - to NOT display normal parse packets on console.
+2007-11-04 16:33:36: - to NOT display administration parse packets on console.
+2007-11-04 16:33:36: - to NOT display char-server parse packets on console.
+2007-11-04 16:33:36: - with no minimum level for connection.
+2007-11-04 16:33:36: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-11-04 16:33:36: - to create new accounts with an unlimited time.
+2007-11-04 16:33:36: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-11-04 16:33:36: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-11-04 16:33:36: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-11-04 16:33:36: The login-server is ready (Server is listening on the port 6900).
+2007-11-04 16:33:51: ----End of login-server (normal end with closing of all files).
+
+2007-11-04 19:34:42: The login-server starting...
+2007-11-04 19:34:42: The configuration of the server is set:
+2007-11-04 19:34:42: - with no remote administration.
+2007-11-04 19:34:42: - to accept any IP for remote administration
+2007-11-04 19:34:42: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-11-04 19:34:42: - to create GM with level '60' when @gm is used.
+2007-11-04 19:34:42: - to ALLOW new users (with _F/_M).
+2007-11-04 19:34:42: - with port: 6900.
+2007-11-04 19:34:42: - with the accounts file name: 'save/account.txt'.
+2007-11-04 19:34:42: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-11-04 19:34:42: - to check GM accounts file modifications every 15 seconds.
+2007-11-04 19:34:42: - to save password in plain text.
+2007-11-04 19:34:42: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-11-04 19:34:42: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-11-04 19:34:42: - to NOT display normal parse packets on console.
+2007-11-04 19:34:42: - to NOT display administration parse packets on console.
+2007-11-04 19:34:42: - to NOT display char-server parse packets on console.
+2007-11-04 19:34:42: - with no minimum level for connection.
+2007-11-04 19:34:42: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-11-04 19:34:42: - to create new accounts with an unlimited time.
+2007-11-04 19:34:42: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-11-04 19:34:42: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-11-04 19:34:42: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-11-04 19:34:42: The login-server is ready (Server is listening on the port 6900).
+2007-11-04 19:34:45: Connection request of the char-server 'eAthena' @ 192.168.1.35:6121 (account: 's1', pass: 'p1', ip: '192.168.1.35')
+2007-11-04 19:34:45: Authentification accepted (account: s1 (id: 0), ip: 192.168.1.35)
+2007-11-04 19:34:45: Connection of the char-server 'eAthena' accepted.
+
+2007-11-04 19:43:05: The login-server starting...
+2007-11-04 19:43:05: The configuration of the server is set:
+2007-11-04 19:43:05: - with no remote administration.
+2007-11-04 19:43:05: - to accept any IP for remote administration
+2007-11-04 19:43:05: - with the DEFAULT 'To GM become' password (gm_pass).
+2007-11-04 19:43:05: - to create GM with level '60' when @gm is used.
+2007-11-04 19:43:05: - to ALLOW new users (with _F/_M).
+2007-11-04 19:43:05: - with port: 6900.
+2007-11-04 19:43:05: - with the accounts file name: 'save/account.txt'.
+2007-11-04 19:43:05: - with the GM accounts file name: 'conf/GM_account.txt'.
+2007-11-04 19:43:05: - to check GM accounts file modifications every 15 seconds.
+2007-11-04 19:43:05: - to save password in plain text.
+2007-11-04 19:43:05: - with the unknown packets file name: 'log/login_unknown_packets.log'.
+2007-11-04 19:43:05: - to SAVE only unkown packets sending by a char-server or a remote administration.
+2007-11-04 19:43:05: - to NOT display normal parse packets on console.
+2007-11-04 19:43:05: - to NOT display administration parse packets on console.
+2007-11-04 19:43:05: - to NOT display char-server parse packets on console.
+2007-11-04 19:43:05: - with no minimum level for connection.
+2007-11-04 19:43:05: - to refuse adjustment (with timeadd ladmin) on an unlimited account. You must use timeset (ladmin command) before.
+2007-11-04 19:43:05: - to create new accounts with an unlimited time.
+2007-11-04 19:43:05: - with the IP security order: 'deny,allow' (allow if not deny). You refuse no IP.
+2007-11-04 19:43:05: 2 accounts read in save/account.txt, of which is no GM account and 1 server account ('S').
+2007-11-04 19:43:05: read_gm_account: file 'conf/GM_account.txt' read (1 GM accounts found).
+2007-11-04 19:48:08: Char-server 'eAthena' has disconnected (ip: 192.168.1.35).
+2007-11-04 19:48:12: ----End of login-server (normal end with closing of all files).

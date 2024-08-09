@@ -1,0 +1,131 @@
+8
+
+dir
+11557
+http://svn.eathena.ws/svn/ea/branches/stable/npc/guild
+http://svn.eathena.ws/svn/ea
+
+
+
+2007-09-14T21:27:36.101059Z
+11209
+ultramage
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8d3bc1bb-15e8-0310-adf8-f98a08d51996
+
+payg
+dir
+
+gldfunc_dunsw.txt
+file
+
+
+
+
+2007-10-24T02:56:28.359375Z
+e2df082b9f76c2894384edef5e3944f5
+2005-12-30T23:07:29.231568Z
+4743
+Vicious
+has-props
+
+gldfunc_kafra.txt
+file
+
+
+
+
+2007-10-24T02:56:28.390625Z
+6cb2350df29907938fe3d84395ee8d30
+2006-05-18T07:21:05.243181Z
+6636
+evera
+has-props
+
+gefg
+dir
+
+gldfunc_flag.txt
+file
+
+
+
+
+2007-10-24T02:56:28.421875Z
+fac3cac8708c6a73325f325b3aa20ace
+2005-12-01T17:15:39.842466Z
+4270
+Lupus
+has-props
+
+gldfunc_manager.txt
+file
+
+
+
+
+2007-10-24T02:56:28.468750Z
+98a883d2dbbd75a81142ca67cdeed663
+2007-01-07T17:33:07.090434Z
+9627
+ultramage
+has-props
+
+gldfunc_treasure.txt
+file
+
+
+
+
+2007-10-24T02:56:28.562500Z
+3d724b8ac8ff9018d49f536f66dd2f88
+2006-10-27T03:47:12.480209Z
+9083
+Lupus
+has-props
+
+aldeg
+dir
+
+prtg
+dir
+
+ev_agit_event.txt
+file
+
+
+
+
+2007-10-24T02:56:28.656250Z
+c5ee4b14a8390365e5fa238dc7b9ea42
+2006-11-04T22:59:57.608393Z
+9137
+Lupus
+has-props
+
+gldfunc_ev_agit.txt
+file
+
+
+
+
+2007-10-24T02:56:28.687500Z
+3bfc9a23b246fe5626bb8325f89ba2e3
+2006-09-14T06:33:23.563670Z
+8740
+Lupus
+has-props
+

@@ -1,0 +1,44 @@
+8
+
+dir
+11557
+http://svn.eathena.ws/svn/ea/branches/stable/npc/custom/eAAC_Scripts/DonationGirl
+http://svn.eathena.ws/svn/ea
+
+
+
+2007-03-02T00:11:54.634971Z
+9947
+ultramage
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8d3bc1bb-15e8-0310-adf8-f98a08d51996
+
+sql
+dir
+
+donate.txt
+file
+
+
+
+
+2007-10-24T02:57:16.359375Z
+6349f975a23827da210807356b6f5155
+2006-12-05T13:23:07.053435Z
+9410
+FlavioJS
+has-props
+

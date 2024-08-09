@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ea/!svn/ver/11492/branches/stable/conf-tmpl
+END
+battle_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/9728/branches/stable/conf-tmpl/battle_athena.conf
+END
+charcommand_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ea/!svn/ver/9624/branches/stable/conf-tmpl/charcommand_athena.conf
+END
+motd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/10956/branches/stable/conf-tmpl/motd.txt
+END
+map_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ea/!svn/ver/10970/branches/stable/conf-tmpl/map_athena.conf
+END
+char_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ea/!svn/ver/10956/branches/stable/conf-tmpl/char_athena.conf
+END
+inter_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/11047/branches/stable/conf-tmpl/inter_athena.conf
+END
+log_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ea/!svn/ver/11443/branches/stable/conf-tmpl/log_athena.conf
+END
+help2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/10960/branches/stable/conf-tmpl/help2.txt
+END
+msg_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ea/!svn/ver/11419/branches/stable/conf-tmpl/msg_athena.conf
+END
+grf-files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ea/!svn/ver/7743/branches/stable/conf-tmpl/grf-files.txt
+END
+GM_account.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ea/!svn/ver/9624/branches/stable/conf-tmpl/GM_account.txt
+END
+plugin_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/9801/branches/stable/conf-tmpl/plugin_athena.conf
+END
+subnet_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/9410/branches/stable/conf-tmpl/subnet_athena.conf
+END
+maps_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ea/!svn/ver/11430/branches/stable/conf-tmpl/maps_athena.conf
+END
+charhelp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ea/!svn/ver/10320/branches/stable/conf-tmpl/charhelp.txt
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ea/!svn/ver/11492/branches/stable/conf-tmpl/Changelog.txt
+END
+help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/7491/branches/stable/conf-tmpl/help.txt
+END
+atcommand_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ea/!svn/ver/11135/branches/stable/conf-tmpl/atcommand_athena.conf
+END
+ladmin_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/10447/branches/stable/conf-tmpl/ladmin_athena.conf
+END
+script_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/11453/branches/stable/conf-tmpl/script_athena.conf
+END
+packet_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/11049/branches/stable/conf-tmpl/packet_athena.conf
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/3021/branches/stable/conf-tmpl/readme.txt
+END
+login_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/10447/branches/stable/conf-tmpl/login_athena.conf
+END

@@ -1,0 +1,329 @@
+//===== eAthena Script =======================================
+//= Water and Fire Quest
+//===== By: ==================================================
+//= nznick
+//===== Current Version: =====================================
+//= 1.0
+//===== Compatible With: =====================================
+//= เกือบทุกรุ่นหรือเปล่าน้า มะแน่ใจ
+//===== Additional Comments: =================================
+//= เควสท์เกี่ยวกับเรื่อง Scholar แห่งธาตุน้ำกับไฟ เพื่อนำของไปแลกที่ตีบวก 10 เพียง 1 ส่วน
+//============================================================
+morocc.gat,154,144,2	script	Water Scholar	47,{
+if(custom_quest==20) goto L_follow;
+if(custom_quest==10) goto getitemX;
+mes "[Scholar]";
+mes " สวัสดี นี่ท่านคือ : " + strcharinfo(0) + " ใช่ไหม";
+next;
+menu "ใช่ เราชื่อ " + strcharinfo(0) + " ไง",-;
+mes "[Scholar]";
+mes " ฉันเป็นนักปราชญ์แห่งฝ่ายน้ำ ที่เคยต่อสู้กับฝ่ายที่ใช้ไฟตลอดมา";
+mes "จนกระทั่งพวกเราได้รับความพ่ายแพ้ ซึ่งท่าน " + strcharinfo(0) + " ต้องนำของบางอย่างมาให้แก่ข้าแล้วล่ะ";
+next;
+if(class==4013 || class!=4015 || class!=4019) {
+	set custom_quest,10;
+	mes "[Scholar]";
+	mes " ที่ให้หาของมาให้นั้น คงต้องนำ Frozen Rose 20 นะ";
+	close;
+}
+
+mes "[Scholar]";
+mes " แต่ว่า ท่านไม่ใช่อาชีพ Assassin Cross , Paladin , Biochemist นะครับ";
+close;
+
+getitemX:
+if(countitem(749)<20) goto L_notenough;
+delitem 749,20;
+set custom_quest,20;
+mes "[Scholar]";
+mes " คงเอาของสิ่งนี้ไปทำเป็นอาวุธแห่งธาตุน้ำไปให้อีกฝ่าย";
+mes "เพื่อทำให้อีกฝ่ายนั้น ถอนกำลังออกจากเมืองนี้โดยเร็ว";
+next;
+if(class==4013) getitem 1256,1;
+if(class==4015) getitem 1170,1;
+if(class==4019) getitem 1230,1;
+mes "[Scholar]";
+mes " Assassion Cross ได้ Katar of Frozen Icle";
+mes " Paladin ได้ Kalizbalgar";
+mes " Biochemist ได้ Ice Pick";
+close;
+
+
+
+L_notenough:
+mes "[Scholar]";
+mes " ท่านยังไม่ได้นำของมาหรือ";
+close;
+
+L_follow:
+mes "[Scholar]";
+mes " อ้าว ยังไม่ได้ไปหาอีกฝ่ายหรอเนี่ย";
+close;
+}
+
+morocc.gat,162,162,5	script	Fire Scholar	742,{
+if(custom_quest>30) goto L_failed;
+if(custom_quest==30) goto L_s2;
+if(custom_quest<20) goto L_failed;
+if(class==4013) {
+if(countitem(1256)<1) goto L_fail;
+delitem 1256,1;
+}
+if(class==4015) {
+if(countitem(1170)<1) goto L_fail;
+delitem 1170,1;
+}
+if(class==4019) {
+if(countitem(1230)<1) goto L_fail;
+delitem 1230,1;
+}
+mes "[Scholar]";
+mes " ท่านคิดว่าที่ท่าน Water Scholar เรียกมานั้น";
+mes "คิดหรือว่าเราจะยอมถอนออกจากเมืองนี้";
+next;
+mes "[Scholar]";
+mes " เพราะว่าเราแข็งแกร่ง เกินกว่าพวกแห่งน้ำชนะได้";
+mes "แต่ว่า ท่านต้องการของที่เรียกว่า Enrich Oridecon เป็น";
+mes "เป็นแร่ที่หายากมาก ไม่มีใครค้นพบ ซึ่งปู่ของข้าได้นำมา";
+mes "ซึ่งปู่ตายไปนานกว่า 100 ปีแล้ว";
+next;
+set custom_quest,30;
+mes "[Scholar]";
+mes " คงต้องนำของมาดังนี้";
+mes " - 500,000 zeny";
+mes " - Red Bijou 50";
+mes " - Treasure Box 5";
+mes " - Survivor's Rod (Dex) [ไม่มีรู] 1";
+mes " ขอให้โชคดี";
+close;
+
+L_s2:
+if(countitem(7447)<50) goto fail2;
+if(countitem(1617)<1) goto fail2;
+if(countitem(7444)<5) goto fail2;
+if(zeny<500000) goto fail2;
+delitem 7447,50;
+delitem 1617,1;
+delitem 7444,5;
+set zeny,zeny-500000;
+mes "[Scholar]";
+mes " กำลังทำของใช้ตีบวก 10";
+next;
+set @fail,rand(100);
+set @slotx,rand(100);
+if(@fail>20) goto fail3;
+if(@slotx<10) goto true2;
+misceffect 154;
+getitem 7620,1;
+set custom_quest,0;
+mes "[Scholar]";
+mes " ได้แล้วล่ะ ไปที่ร้านตีบวก เผื่อว่าจะตียวก 10 ได้ 1 ส่วน";
+close;
+
+true2:
+misceffect 154;
+getitem 7620,1;
+getitem 1618,1;
+set custom_quest,0;
+mes "[Scholar]";
+mes " ได้แล้วล่ะ ไปที่ร้านตีบวก เผื่อว่าจะตียวก 10 ได้ 1 ส่วน";
+mes "ท่านโชคดีมาก Oridecon เหลืออีกนิดหน่อย ได้ Survivor's Rod (Dex) 1 รู!";
+close;
+
+fail3:
+misceffect 183;
+mes "[Scholar]";
+mes "เสียใจ ทำของไม่สำเร็จ";
+close;
+
+fail2:
+mes "[Scholar]";
+mes " ยังมีของไม่พอ";
+close;
+
+L_fail:
+mes "[Scholar]";
+mes " ไม่มีของมาให้แล้วจะทำไงอ่า";
+close;
+
+L_failed:
+mes "[Scholar]";
+mes " ยังไม่มีอะไรจะคุยกับท่าน";
+close;
+}
+
+morocc_in.gat,61,35,5	script	Selvas	83,{
+mes "[Refine]";
+mes " ผมเป็นคนเดียวที่ตีบวกสำเร็จ 100% ทุกระดับการตีบวก โดยไม่ได้ใช้ Elunium หรือ Oridecon";
+mes "เพียงแต่มี Enrich Oridecon เท่านั้น ก็ตีได้แล้ว";
+next;
+menu "ทำ",-,"ไม่ทำ",no;
+if(countitem(7620)<1) goto fail;
+if(zeny<1000000) goto fail;
+mes "[Refine]";
+mes " ท่านต้องการตีบวกส่วนไหนหรอ";
+next;
+menu getequipname(1),L_MENU_1,getequipname(2),L_MENU_2,getequipname(3),L_MENU_3,getequipname(4),L_MENU_4,getequipname(5),L_MENU_5,getequipname(6),L_MENU_6,getequipname(7),L_MENU_7,getequipname(8),L_MENU_8,getequipname(9),L_MENU_9,getequipname(10),L_MENU_10;
+	L_MENU_1:
+		set @part,1;
+		if (getequipisequiped(1)) goto L_START_0;
+			mes "[Refine]";
+			mes "ท่านต้องการให้ข้าหลอมมันสมองให้ท่านหรือไง?";
+			goto L_CLOSE;
+		L_START_0:
+		
+	L_MENU_2:
+		set @part,2;
+		if (getequipisequiped(2)) goto L_START_1;
+			mes "[Refine]";
+			mes "ข้าจะหลอมร่างกายของท่านด้วยความร้อน";
+			goto L_CLOSE;
+	L_MENU_3:
+		set @part,3;
+		if (getequipisequiped(3)) goto L_START_1;
+			mes "[Refine]";
+			mes "ข้าจะทำให้มือซ้ายของท่านไร้เทียมทานไม่ได้...";
+			goto L_CLOSE;
+	L_MENU_4:
+		set @part,4;
+		if (getequipisequiped(4)) goto L_START_1;
+			mes "[Refine]";
+			mes "ข้าจะทำให้มือขวาของท่านไร้เทียมทานไม่ได้";
+			goto L_CLOSE;
+	L_MENU_5:
+		set @part,5;
+		if (getequipisequiped(5)) goto L_START_1;
+			mes "[Refine]";
+			mes "ดูท่านสิ ท่านไม่ได้สวมใส่เสื้อผ้าเลยสักชิ้น";
+			goto L_CLOSE;
+	L_MENU_6:
+		set @part,6;
+		if (getequipisequiped(6)) goto L_START_1;
+			mes "[Refine]";
+			mes "โอยยย..เท้าของท่านส่งกลิ่นเหม็นมาก";
+			goto L_CLOSE;
+	L_MENU_7:
+		set @part,7;
+		if (getequipisequiped(7)) goto L_START_1;
+			mes "[Refine]";
+			mes "เครื่องประดับอะไรของท่าน? อันไหนล่ะ?";
+			goto L_CLOSE;
+	L_MENU_8:
+		set @part,8;
+		if (getequipisequiped(8)) goto L_START_1;
+			mes "[Refine]";
+			mes "เครื่องประดับอะไรของท่าน? อันไหนล่ะ?";
+			goto L_CLOSE;
+	L_MENU_9:
+		set @part,9;
+		if (getequipisequiped(9)) goto L_START_1;
+			mes "[Refine]";
+			mes "ท่านต้องการให้ข้าทำอะไร? ส่วนไหนล่ะ?";
+			goto L_CLOSE;
+	L_MENU_10:
+		set @part,10;
+		if (getequipisequiped(10)) goto L_START_1;
+			mes "[Refine]";
+			mes "ท่านต้องการให้ข้าทำอะไร? ส่วนไหนล่ะ?";
+			goto L_CLOSE;
+L_START_1:
+		if (getequipisenableref(@part)) goto L_START_2;
+		mes "[Refine]";
+		mes "ขอโทษเถอะ แต่ข้าว่าของชิ้นนี้มันตีไม่ได้";
+		goto L_close;
+
+L_START_2:
+	if (getequipisidentify(@part)) goto L_START_3;
+		mes "[Refine]";
+		mes "ท่านไม่สามารถตีอุปกรณ์ชิ้นนี้ได้ เพราะมันยังไม่ได้ถูกตรวจสอบ..";
+		goto L_close;
+L_START_3:
+	if (getequiprefinerycnt(@part) < 1) goto L_REFINE_0;
+	if (getequiprefinerycnt(@part) < 2) goto L_REFINE_1;
+	if (getequiprefinerycnt(@part) < 3) goto L_REFINE_2;
+	if (getequiprefinerycnt(@part) < 4) goto L_REFINE_3;
+	if (getequiprefinerycnt(@part) < 5) goto L_REFINE_4;
+	if (getequiprefinerycnt(@part) < 6) goto L_REFINE_5;
+	if (getequiprefinerycnt(@part) < 7) goto L_REFINE_6;
+	if (getequiprefinerycnt(@part) < 8) goto L_REFINE_7;
+	if (getequiprefinerycnt(@part) < 9) goto L_REFINE_8;
+	if (getequiprefinerycnt(@part) < 10) goto L_REFINE_9;
+		mes "[Refine]";
+		mes "ข้าว่าอุปกรณ์ชิ้นนี้ไม่สามารถนำมาตีเพิ่มไปได้มากกว่านี้แล้ว..";
+		goto L_close;
+
+L_REFINE_0:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+
+L_REFINE_1:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_2:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_3:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_4:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_5:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_6:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_70:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_8:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+L_REFINE_9:
+
+delitem 7620,1;
+successrefitem  @part; 
+goto ready; 
+
+ready: 
+mes "[Refine]"; 
+mes "ตีเสร็จแล้วขอบคุณที่ใช้บริการ"; 
+close; 
+
+Lnoequip: 
+mes "[Refine]"; 
+mes "ไม่ได้ใส่อะไรเลยหรอ"; 
+close;
+
+fail:
+mes "[Refine]";
+mes " ไม่มีของเหรอ ได้แก่ เงิน 1M และ Enrich Oridecon 1 ชิ้น";
+close;
+
+no:
+mes "[Refine]";
+mes " ขอให้โชคดี";
+close;
+
+L_close:
+close;
+}

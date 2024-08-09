@@ -1,0 +1,4 @@
+morocc.gat,86,117,0 script PCLoginEvent -1,{
+announce jobname(class) +"ชื่อ "+strcharinfo(0)+"ได้เข้าสู่เกมส์",0;
+end;
+}

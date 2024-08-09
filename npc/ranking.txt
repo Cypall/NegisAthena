@@ -1,0 +1,62 @@
+morocc.gat,155,92,4	script	PVP Ranking	864,{
+	if(!$@rready || $@rready==2) {
+		mes "[PVP Ranking]";
+		mes "กิจกรรมได้ปิดทางเข้าไปครับ";
+		close;
+	} else {
+		mes "[PVP Ranking]";
+		mes "ต้องการไปไหม!";
+		next;
+		menu "ต้องการ",-,"ไม่ต้องการ",M_End;
+
+		warp "pvp_n_3-5.gat",0,0;
+		close;
+	}
+
+	M_End:
+	mes "[PVP Ranking]";
+	mes "ไม่เป็นไรหรอก";
+	close;
+
+	OnMinute20:
+	set $@rready,1;
+	announce "อีก 5 นาทีจะเริ่มการแข่ง PVP Ranking ผู้ที่อยู่คนสุดท้ายจะได้รับคะแนน!",bc_all;
+	sleep2 60000;
+	for(set $@i,4; $@i==0; set $@i,$@i-1) {
+		announce "อีกเวลา " + $@i + " นาที จะเริ่ม",bc_all;
+		sleep2 60000;
+	}
+	set $@rready,0;
+	announce "ขณะนี้เริ่มการแข่งขันได้!",bc_all;
+	while(1) {
+		sleep2 30000;
+		if(getmapusers("pvp_n_3-5.gat")==1) break;
+		announce "ขณะนี้ยังมีผู้รอดชีวิตอยู่ " + getmapusers("pvp_n_3-5.gat") + " คน",bc_all;
+	}
+	enablenpc "Ranking_A";
+	set $@rready,2;
+	announce "ขณะนี้พบผู้ชนะแล้วครับ!",bc_all;
+	end;
+}
+
+pvp_n_3-5.gat,99,100,4	script	Ranking_A	705,{
+	if($@rready==2) {
+		mes "[PVP Ranking]";
+		mes "คุณได้รับ 10 Rank ครับ";
+		mes "ขอให้โชคดี";
+		close2;
+		set clonepts,clonepts+10;
+		set $@rready,0;
+		disablenpc "Ranking_A";
+		warp "SavePoint",0,0;
+		close;
+	}
+
+	mes "[PVP Ranking]";
+	mes "ไม่ได้อ่ะครับ";
+	close;
+
+	OnInit:
+	disablenpc "Ranking_A";
+	end;
+}
